@@ -1,8 +1,7 @@
-[A MODIFIER : remplacer avec votre logo s'il ne s'agit pas d'un projet CI-SIS]
-
 ![Logo_LEF_CI-SIS](https://user-images.githubusercontent.com/48218773/227532484-eff82649-4e42-49c6-966a-dc3ea78cf59c.png)
 
-[A MODIFIER : adapter au lien du projet]
+Ce guide d'implémentation va remplacer le volet pdf NdE : https://esante.gouv.fr/volet-notification-devenements.
+Il permet actuellement de récolter les issues sur ce volet.
 
 [![Workflow Init](https://github.com/ansforge/IG-fhir-partage-de-documents-de-sante/actions/workflows/fhir-workflows.yml/badge.svg)](https://github.com/ansforge/IG-fhir-partage-de-documents-de-sante/actions/workflows/fhir-workflows.yml)
 
